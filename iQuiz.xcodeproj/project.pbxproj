@@ -14,6 +14,8 @@
 		1B0E3E982187DF3400D1A319 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B0E3E962187DF3400D1A319 /* LaunchScreen.storyboard */; };
 		1B0E3EA32187DF3500D1A319 /* iQuizTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0E3EA22187DF3500D1A319 /* iQuizTests.swift */; };
 		1B0E3EAE2187DF3500D1A319 /* iQuizUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0E3EAD2187DF3500D1A319 /* iQuizUITests.swift */; };
+		1B0E3EBE2188166D00D1A319 /* AppData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0E3EBD2188166D00D1A319 /* AppData.swift */; };
+		1B0E3EC02188170700D1A319 /* TDTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0E3EBF2188170700D1A319 /* TDTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		1B0E3EA92187DF3500D1A319 /* iQuizUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iQuizUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B0E3EAD2187DF3500D1A319 /* iQuizUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iQuizUITests.swift; sourceTree = "<group>"; };
 		1B0E3EAF2187DF3500D1A319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B0E3EBD2188166D00D1A319 /* AppData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppData.swift; sourceTree = "<group>"; };
+		1B0E3EBF2188170700D1A319 /* TDTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TDTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				1B0E3E942187DF3400D1A319 /* Assets.xcassets */,
 				1B0E3E962187DF3400D1A319 /* LaunchScreen.storyboard */,
 				1B0E3E992187DF3400D1A319 /* Info.plist */,
+				1B0E3EBD2188166D00D1A319 /* AppData.swift */,
+				1B0E3EBF2188170700D1A319 /* TDTableViewCell.swift */,
 			);
 			path = iQuiz;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				1B0E3E902187DF3400D1A319 /* ViewController.swift in Sources */,
 				1B0E3E8E2187DF3400D1A319 /* AppDelegate.swift in Sources */,
+				1B0E3EBE2188166D00D1A319 /* AppData.swift in Sources */,
+				1B0E3EC02188170700D1A319 /* TDTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
